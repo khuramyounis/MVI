@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">MVI</string>
+    <string name="breed_image">breed_image</string>
+    <string name="refresh">Refresh</string>
+    <string name="breed_name_title">Breed Name:</string>
+    <string name="bred_for_title">Bred For:</string>
+    <string name="breed_group_title">Breed Group:</string>
+    <string name="life_span_title">Life Span:</string>
+    <string name="temperament_title">Temperament:</string>
+    <string name="origin_title">Origin:</string>
+
+</resources>
